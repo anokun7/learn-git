@@ -1,0 +1,10 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://anokun7.github.io/learn-git"
+title: "Testing"
+canonifyurls: true
+...
