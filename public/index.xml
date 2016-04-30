@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Testing</title>
-    <link>http://anokun7.github.io/learn-git/</link>
+    <link>http://localhost:1313/learn-git/</link>
     <description>Recent content on Testing</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 29 Mar 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://anokun7.github.io/learn-git/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/learn-git/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Just another sample post</title>
-      <link>http://anokun7.github.io/learn-git/about/</link>
+      <link>http://localhost:1313/learn-git/about/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://anokun7.github.io/learn-git/about/</guid>
+      <guid>http://localhost:1313/learn-git/about/</guid>
       <description>
 
 &lt;h1 id=&#34;nitro:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Nitro&lt;/h1&gt;
