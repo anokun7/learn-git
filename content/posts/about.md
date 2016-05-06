@@ -1,5 +1,6 @@
 ---
 title: "Just another sample post"
+drafts: true
 date: "2016-04-29"
 description: "This should be a more useful description"
 categories:
