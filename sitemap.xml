@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/learn-git/</loc>
+    <loc>http://anokun7.github.io/learn-git/</loc>
     <lastmod>2016-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/learn-git/posts/about/</loc>
+    <loc>http://anokun7.github.io/learn-git/posts/about/</loc>
     <lastmod>2016-04-29T00:00:00+00:00</lastmod>
   </url>
   
